@@ -1,15 +1,13 @@
 {
-  "name": "LW quizz filter",
+  "name": "Jusb Copy",
   "version": "1.0",
-  "description": "a table filter for the day quizz session",
+  "description": "",
   "manifest_version": 2,
+  "browser_action": {},
   "background": {
     "scripts": ["background.js"]
   },
   "permissions": [
     "activeTab"
-  ],
-  "browser_action": {
-    "default_icon": "icon.png"
-  }
+  ]
 }
